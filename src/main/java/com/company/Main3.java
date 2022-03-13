@@ -1,10 +1,5 @@
 package com.company;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.nio.charset.StandardCharsets;
-import java.util.Scanner;
-
 public class Main3 {
 
     public static void main(String[] args) {
